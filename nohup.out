@@ -1,0 +1,17 @@
+[I 2022-07-06 16:48:26.369 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-07-06 16:48:26.566 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-07-06 16:48:26.601 LabApp] JupyterLab extension loaded from /Users/michaelcruz/opt/anaconda3/envs/dev/lib/python3.8/site-packages/jupyterlab
+[I 2022-07-06 16:48:26.601 LabApp] JupyterLab application directory is /Users/michaelcruz/opt/anaconda3/envs/dev/share/jupyter/lab
+[I 2022-07-06 16:48:26.603 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-07-06 16:48:26.606 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-07-06 16:48:26.606 ServerApp] Serving notebooks from local directory: /Users/michaelcruz/git/FinTech-Mod6-Challenge
+[I 2022-07-06 16:48:26.606 ServerApp] Jupyter Server 1.4.1 is running at:
+[I 2022-07-06 16:48:26.606 ServerApp] http://localhost:8888/lab
+[I 2022-07-06 16:48:26.607 ServerApp]  or http://127.0.0.1:8888/lab
+[I 2022-07-06 16:48:26.607 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2022-07-06 16:48:30.704 LabApp] Could not determine jupyterlab build status without nodejs
+TermSocket.open: 1
+[I 2022-07-06 16:48:30.707 ServerApp] New terminal with specified name: 1
+TermSocket.open: Opened 1
+[W 2022-07-06 16:51:12.650 ServerApp] Notebook san_francisco_housing.ipynb is not trusted
+[I 2022-07-06 16:51:13.065 ServerApp] Kernel started: 026e7ca4-681c-4988-8cec-82f411bf0060
