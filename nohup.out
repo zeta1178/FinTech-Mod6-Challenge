@@ -21,3 +21,42 @@ TermSocket.open: Opened 1
 Websocket closed
 [I 2022-07-06 16:53:09.409 ServerApp] Shutting down on /api/shutdown request.
 [I 2022-07-06 16:53:09.409 ServerApp] Shutting down 0 kernels
+NumExpr defaulting to 8 threads.
+[I 2022-07-08 08:27:54.989 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-07-08 08:27:55.213 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-07-08 08:27:55.213 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
+[I 2022-07-08 08:27:55.260 LabApp] JupyterLab extension loaded from /Users/michaelcruz/opt/anaconda3/envs/dev/lib/python3.8/site-packages/jupyterlab
+[I 2022-07-08 08:27:55.260 LabApp] JupyterLab application directory is /Users/michaelcruz/opt/anaconda3/envs/dev/share/jupyter/lab
+[I 2022-07-08 08:27:55.263 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-07-08 08:27:55.266 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-07-08 08:27:55.267 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
+[I 2022-07-08 08:27:55.267 ServerApp] Serving notebooks from local directory: /Users/michaelcruz/git/FinTech-Mod6-Challenge
+[I 2022-07-08 08:27:55.267 ServerApp] Jupyter Server 1.4.1 is running at:
+[I 2022-07-08 08:27:55.267 ServerApp] http://localhost:8888/lab
+[I 2022-07-08 08:27:55.267 ServerApp]  or http://127.0.0.1:8888/lab
+[I 2022-07-08 08:27:55.267 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2022-07-08 08:27:59.074 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-07-08 08:28:06.034 ServerApp] 404 GET /api/contents/FinTech-Mod4-Challenge?1657283286030 (::1): No such file or directory: FinTech-Mod4-Challenge
+[W 2022-07-08 08:28:06.035 ServerApp] No such file or directory: FinTech-Mod4-Challenge
+[W 2022-07-08 08:28:06.036 ServerApp] 404 GET /api/contents/FinTech-Mod4-Challenge?1657283286030 (::1) 2.99ms referer=http://localhost:8888/lab
+[W 2022-07-08 08:28:08.371 ServerApp] Notebook san_francisco_housing.ipynb is not trusted
+[I 2022-07-08 08:28:09.078 ServerApp] Kernel started: 59362b30-34ce-4173-a117-742e94c69787
+[I 2022-07-08 08:30:09.249 ServerApp] Saving file at /san_francisco_housing.ipynb
+[W 2022-07-08 08:30:09.250 ServerApp] Notebook san_francisco_housing.ipynb is not trusted
+[I 2022-07-08 08:32:09.971 ServerApp] Saving file at /san_francisco_housing.ipynb
+[I 2022-07-08 08:40:13.061 ServerApp] Saving file at /san_francisco_housing.ipynb
+[I 2022-07-08 08:42:13.807 ServerApp] Saving file at /san_francisco_housing.ipynb
+[I 2022-07-08 08:44:14.590 ServerApp] Saving file at /san_francisco_housing.ipynb
+[I 2022-07-08 08:46:15.855 ServerApp] Saving file at /san_francisco_housing.ipynb
+[I 2022-07-08 08:48:16.937 ServerApp] Saving file at /san_francisco_housing.ipynb
+[I 2022-07-08 08:50:17.834 ServerApp] Saving file at /san_francisco_housing.ipynb
+[I 2022-07-08 08:52:18.590 ServerApp] Saving file at /san_francisco_housing.ipynb
+[I 2022-07-08 08:54:20.017 ServerApp] Saving file at /san_francisco_housing.ipynb
+[I 2022-07-08 08:56:22.056 ServerApp] Saving file at /san_francisco_housing.ipynb
+[I 2022-07-08 08:58:22.863 ServerApp] Saving file at /san_francisco_housing.ipynb
+[I 2022-07-08 09:00:23.632 ServerApp] Saving file at /san_francisco_housing.ipynb
+[I 2022-07-08 09:02:25.045 ServerApp] Saving file at /san_francisco_housing.ipynb
+[I 2022-07-08 09:05:21.465 ServerApp] Saving file at /san_francisco_housing.ipynb
+[I 2022-07-08 09:05:24.526 ServerApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
