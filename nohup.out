@@ -60,3 +60,240 @@ NumExpr defaulting to 8 threads.
 [I 2022-07-08 09:05:24.526 ServerApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[I 2022-07-08 09:06:31.655 ServerApp] Kernel shutdown: 59362b30-34ce-4173-a117-742e94c69787
+[I 2022-07-08 09:06:31.763 ServerApp] EOF on FD 18; stopping reading
+[I 2022-07-08 09:06:31.869 ServerApp] Terminal 1 closed
+Websocket closed
+[I 2022-07-08 09:06:32.300 ServerApp] Shutting down on /api/shutdown request.
+[I 2022-07-08 09:06:32.301 ServerApp] Shutting down 0 kernels
+/panel-preview/ /panel-preview
+NumExpr defaulting to 8 threads.
+[I 2022-07-09 10:29:00.441 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-07-09 10:29:00.694 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-07-09 10:29:00.694 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
+[I 2022-07-09 10:29:00.740 LabApp] JupyterLab extension loaded from /Users/michaelcruz/opt/anaconda3/envs/dev/lib/python3.8/site-packages/jupyterlab
+[I 2022-07-09 10:29:00.740 LabApp] JupyterLab application directory is /Users/michaelcruz/opt/anaconda3/envs/dev/share/jupyter/lab
+[I 2022-07-09 10:29:00.743 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-07-09 10:29:00.746 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-07-09 10:29:00.748 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
+[I 2022-07-09 10:29:00.748 ServerApp] Serving notebooks from local directory: /Users/michaelcruz/git/FinTech-Mod6-Challenge
+[I 2022-07-09 10:29:00.748 ServerApp] Jupyter Server 1.4.1 is running at:
+[I 2022-07-09 10:29:00.748 ServerApp] http://localhost:8888/lab
+[I 2022-07-09 10:29:00.748 ServerApp]  or http://127.0.0.1:8888/lab
+[I 2022-07-09 10:29:00.748 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2022-07-09 10:29:05.390 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-07-09 10:29:05.396 ServerApp] 404 GET /api/contents/working_notebook.ipynb?content=0&1657376945385 (::1): No such file or directory: working_notebook.ipynb
+[W 2022-07-09 10:29:05.396 ServerApp] No such file or directory: working_notebook.ipynb
+[W 2022-07-09 10:29:05.396 ServerApp] 404 GET /api/contents/working_notebook.ipynb?content=0&1657376945385 (::1) 3.77ms referer=http://localhost:8888/lab
+[W 2022-07-09 10:29:05.396 ServerApp] 404 GET /api/contents/challenge.ipynb?content=0&1657376945386 (::1): No such file or directory: challenge.ipynb
+[W 2022-07-09 10:29:05.396 ServerApp] No such file or directory: challenge.ipynb
+[W 2022-07-09 10:29:05.396 ServerApp] 404 GET /api/contents/challenge.ipynb?content=0&1657376945386 (::1) 3.58ms referer=http://localhost:8888/lab
+TermSocket.open: 1
+[I 2022-07-09 10:29:05.398 ServerApp] New terminal with specified name: 1
+TermSocket.open: Opened 1
+[W 2022-07-09 10:29:06.045 ServerApp] 404 GET /api/contents/Data?1657376946040 (::1): No such file or directory: Data
+[W 2022-07-09 10:29:06.045 ServerApp] No such file or directory: Data
+[W 2022-07-09 10:29:06.046 ServerApp] 404 GET /api/contents/Data?1657376946040 (::1) 2.55ms referer=http://localhost:8888/lab
+[W 2022-07-09 10:29:53.019 ServerApp] Notebook san_francisco_housing.ipynb is not trusted
+[I 2022-07-09 10:29:53.857 ServerApp] Kernel started: 9dcd0c0f-01cd-45a6-a988-5cd4ec791deb
+[I 2022-07-09 11:01:54.595 ServerApp] Creating new notebook in 
+[I 2022-07-09 11:01:54.747 ServerApp] Kernel started: b80c747c-89e9-4058-94d7-173a357d7722
+[I 2022-07-09 11:03:54.704 ServerApp] Saving file at /Test.ipynb
+[I 2022-07-09 11:05:54.872 ServerApp] Saving file at /Test.ipynb
+[I 2022-07-09 11:07:25.527 ServerApp] Saving file at /Test.ipynb
+[I 2022-07-09 11:09:25.825 ServerApp] Saving file at /Test.ipynb
+[I 2022-07-09 11:47:44.833 ServerApp] Starting buffering for 9dcd0c0f-01cd-45a6-a988-5cd4ec791deb:aab60d2d-7a06-4fce-84bc-352a269ee808
+[I 2022-07-09 11:47:44.842 ServerApp] Starting buffering for b80c747c-89e9-4058-94d7-173a357d7722:e908f9a0-9cb8-4f73-84e3-e0283c6b2af1
+Websocket closed
+[W 2022-07-09 11:47:49.386 LabApp] Could not determine jupyterlab build status without nodejs
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[W 2022-07-09 11:47:49.853 ServerApp] Notebook san_francisco_housing.ipynb is not trusted
+[W 2022-07-09 11:47:50.290 ServerApp] Notebook Test.ipynb is not trusted
+[I 2022-07-09 12:12:16.246 ServerApp] Saving file at /san_francisco_housing.ipynb
+[I 2022-07-09 12:14:18.415 ServerApp] Saving file at /san_francisco_housing.ipynb
+[I 2022-07-09 12:15:32.341 ServerApp] Creating new notebook in 
+[I 2022-07-09 12:15:32.484 ServerApp] Kernel started: 9815ca3c-de5a-4388-ad95-7cb2843bc03e
+[I 2022-07-09 12:15:46.334 ServerApp] Saving file at /Test2.ipynb
+[I 2022-07-09 12:17:46.522 ServerApp] Saving file at /Test2.ipynb
+[I 2022-07-09 13:31:33.263 ServerApp] Starting buffering for 9815ca3c-de5a-4388-ad95-7cb2843bc03e:0900d9a0-fa36-4b69-a846-181962c2e4af
+[I 2022-07-09 13:31:33.267 ServerApp] Starting buffering for 9dcd0c0f-01cd-45a6-a988-5cd4ec791deb:a0cca466-957d-478d-b632-be6c0cc414cd
+Websocket closed
+[I 2022-07-09 13:31:33.274 ServerApp] Starting buffering for b80c747c-89e9-4058-94d7-173a357d7722:92482f63-2f1f-4584-bb43-4804403de252
+[I 2022-07-09 13:31:33.336 ServerApp] Restoring connection for 9dcd0c0f-01cd-45a6-a988-5cd4ec791deb:a0cca466-957d-478d-b632-be6c0cc414cd
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 2022-07-09 13:31:33.395 ServerApp] Restoring connection for b80c747c-89e9-4058-94d7-173a357d7722:92482f63-2f1f-4584-bb43-4804403de252
+[I 2022-07-09 14:14:25.143 ServerApp] Starting buffering for b80c747c-89e9-4058-94d7-173a357d7722:92482f63-2f1f-4584-bb43-4804403de252
+Websocket closed
+[I 2022-07-09 14:14:31.375 ServerApp] Starting buffering for 9815ca3c-de5a-4388-ad95-7cb2843bc03e:20fd19a1-da73-40d5-aa52-d5106aaadbb9
+[I 2022-07-09 14:14:31.376 ServerApp] Starting buffering for 9dcd0c0f-01cd-45a6-a988-5cd4ec791deb:a0cca466-957d-478d-b632-be6c0cc414cd
+[W 2022-07-09 14:15:19.058 LabApp] Could not determine jupyterlab build status without nodejs
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[W 2022-07-09 14:15:20.039 ServerApp] Notebook san_francisco_housing.ipynb is not trusted
+[W 2022-07-09 14:15:20.665 ServerApp] 404 GET /Images/zoomed-housing-units-by-year.png (::1) 25.56ms referer=http://localhost:8888/lab
+[W 2022-07-09 14:15:20.666 ServerApp] 404 GET /Images/avg-sale-px-sq-foot-gross-rent.png (::1) 0.84ms referer=http://localhost:8888/lab
+[W 2022-07-09 14:15:20.668 ServerApp] 404 GET /Images/pricing-info-by-neighborhood.png (::1) 1.75ms referer=http://localhost:8888/lab
+[W 2022-07-09 14:15:20.668 ServerApp] 404 GET /Images/6-4-geoviews-plot.png (::1) 1.78ms referer=http://localhost:8888/lab
+[I 2022-07-09 14:15:23.246 ServerApp] Kernel shutdown: 9dcd0c0f-01cd-45a6-a988-5cd4ec791deb
+[I 2022-07-09 14:15:23.254 ServerApp] Kernel shutdown: b80c747c-89e9-4058-94d7-173a357d7722
+[I 2022-07-09 14:15:23.257 ServerApp] Kernel shutdown: 9815ca3c-de5a-4388-ad95-7cb2843bc03e
+[I 2022-07-09 14:15:23.431 ServerApp] EOF on FD 22; stopping reading
+[I 2022-07-09 14:15:23.536 ServerApp] Terminal 1 closed
+Websocket closed
+[I 2022-07-09 14:15:24.052 ServerApp] Shutting down on /api/shutdown request.
+[I 2022-07-09 14:15:24.052 ServerApp] Shutting down 0 kernels
+/panel-preview/ /panel-preview
+nohup: jupyter-lab: No such file or directory
+NumExpr defaulting to 8 threads.
+[I 2022-07-11 18:44:39.241 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-07-11 18:44:39.488 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-07-11 18:44:39.488 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
+[I 2022-07-11 18:44:39.534 LabApp] JupyterLab extension loaded from /Users/michaelcruz/opt/anaconda3/envs/dev/lib/python3.8/site-packages/jupyterlab
+[I 2022-07-11 18:44:39.534 LabApp] JupyterLab application directory is /Users/michaelcruz/opt/anaconda3/envs/dev/share/jupyter/lab
+[I 2022-07-11 18:44:39.536 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-07-11 18:44:39.540 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-07-11 18:44:39.541 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
+[I 2022-07-11 18:44:39.541 ServerApp] Serving notebooks from local directory: /Users/michaelcruz/git/FinTech-Mod6-Challenge
+[I 2022-07-11 18:44:39.541 ServerApp] Jupyter Server 1.4.1 is running at:
+[I 2022-07-11 18:44:39.541 ServerApp] http://localhost:8888/lab
+[I 2022-07-11 18:44:39.541 ServerApp]  or http://127.0.0.1:8888/lab
+[I 2022-07-11 18:44:39.541 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2022-07-11 18:44:43.619 LabApp] Could not determine jupyterlab build status without nodejs
+TermSocket.open: 1
+[I 2022-07-11 18:44:43.638 ServerApp] New terminal with specified name: 1
+TermSocket.open: Opened 1
+[W 2022-07-11 18:44:44.178 ServerApp] Notebook san_francisco_housing.ipynb is not trusted
+[W 2022-07-11 18:44:44.842 ServerApp] 404 GET /Images/zoomed-housing-units-by-year.png (::1) 28.40ms referer=http://localhost:8888/lab
+[W 2022-07-11 18:44:44.843 ServerApp] 404 GET /Images/avg-sale-px-sq-foot-gross-rent.png (::1) 27.19ms referer=http://localhost:8888/lab
+[W 2022-07-11 18:44:44.844 ServerApp] 404 GET /Images/pricing-info-by-neighborhood.png (::1) 26.47ms referer=http://localhost:8888/lab
+[W 2022-07-11 18:44:44.844 ServerApp] 404 GET /Images/6-4-geoviews-plot.png (::1) 25.76ms referer=http://localhost:8888/lab
+[I 2022-07-11 18:44:45.017 ServerApp] Kernel started: a2439ecf-5b54-45c0-8c0d-b807cf1d5685
+[W 2022-07-11 18:45:14.298 ServerApp] Notebook Test2.ipynb is not trusted
+[I 2022-07-11 18:45:14.541 ServerApp] Kernel started: 54bafba8-2cdd-4dde-9551-661a32c5eba3
+[I 2022-07-11 18:45:19.743 ServerApp] Creating new notebook in 
+[I 2022-07-11 18:45:19.890 ServerApp] Kernel started: c82296fd-d6ca-4c64-bbc9-d83f97f1ab63
+[I 2022-07-11 18:45:28.778 ServerApp] Saving file at /Test3.ipynb
+[I 2022-07-11 18:47:28.957 ServerApp] Saving file at /Test3.ipynb
+[I 2022-07-11 18:49:29.276 ServerApp] Saving file at /Test3.ipynb
+[I 2022-07-11 18:51:29.598 ServerApp] Saving file at /Test3.ipynb
+[I 2022-07-11 18:51:45.374 ServerApp] Saving file at /Test3.ipynb
+[I 2022-07-11 18:55:45.705 ServerApp] Saving file at /Picture_perfect.ipynb
+[I 2022-07-11 19:01:46.057 ServerApp] Saving file at /Picture_perfect.ipynb
+[I 2022-07-11 19:05:46.387 ServerApp] Saving file at /Picture_perfect.ipynb
+[I 2022-07-11 19:07:46.957 ServerApp] Saving file at /Picture_perfect.ipynb
+[I 2022-07-11 19:56:16.470 ServerApp] Creating new notebook in 
+[I 2022-07-11 19:56:16.686 ServerApp] Kernel started: 96362226-2609-4adb-918f-99e355e09757
+[I 2022-07-11 19:58:16.606 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-11 20:14:16.598 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-11 20:16:16.624 ServerApp] Saving file at /medical_claims.ipynb
+[I 2022-07-11 20:18:16.663 ServerApp] Saving file at /medical_claims.ipynb
+[I 2022-07-11 20:20:16.712 ServerApp] Saving file at /medical_claims.ipynb
+[I 2022-07-11 20:22:16.894 ServerApp] Saving file at /medical_claims.ipynb
+[I 2022-07-11 20:24:18.044 ServerApp] Saving file at /medical_claims.ipynb
+[I 2022-07-11 20:34:45.776 ServerApp] Saving file at /medical_claims.ipynb
+[I 2022-07-11 20:36:46.098 ServerApp] Saving file at /medical_claims.ipynb
+[I 2022-07-11 20:57:19.066 ServerApp] Creating new notebook in 
+[I 2022-07-11 20:57:19.232 ServerApp] Kernel started: 2a0d3705-a7b6-4e3d-9a55-459df7fde9a8
+[I 2022-07-11 20:59:19.320 ServerApp] Saving file at /storytelling.ipynb
+[I 2022-07-11 21:01:16.379 ServerApp] Saving file at /storytelling.ipynb
+[I 2022-07-11 21:03:16.683 ServerApp] Saving file at /storytelling.ipynb
+[I 2022-07-11 21:05:05.465 ServerApp] Saving file at /storytelling.ipynb
+[I 2022-07-11 21:07:05.785 ServerApp] Saving file at /storytelling.ipynb
+[I 2022-07-11 21:09:06.062 ServerApp] Saving file at /storytelling.ipynb
+[I 2022-07-11 21:11:06.363 ServerApp] Saving file at /storytelling.ipynb
+[I 2022-07-11 21:13:08.046 ServerApp] Saving file at /storytelling.ipynb
+[I 2022-07-11 21:13:41.025 ServerApp] Saving file at /storytelling.ipynb
+Websocket closed
+[I 2022-07-11 21:13:42.866 ServerApp] Starting buffering for 2a0d3705-a7b6-4e3d-9a55-459df7fde9a8:954d9542-fe74-4795-a0dc-7661eefe1de3
+[I 2022-07-11 21:13:42.869 ServerApp] Starting buffering for c82296fd-d6ca-4c64-bbc9-d83f97f1ab63:88b123a8-534a-4b88-967f-b812ce4509a0
+[I 2022-07-11 21:13:42.870 ServerApp] Starting buffering for 96362226-2609-4adb-918f-99e355e09757:9bc31ec1-ddc8-40a1-b512-8c5a836d3049
+[I 2022-07-11 21:13:42.871 ServerApp] Starting buffering for a2439ecf-5b54-45c0-8c0d-b807cf1d5685:8c636875-1763-4e51-a785-e9080e161a4e
+[I 2022-07-11 21:13:42.872 ServerApp] Starting buffering for 54bafba8-2cdd-4dde-9551-661a32c5eba3:90ebab96-fc73-42a0-ad61-9dbd5ecf7442
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[W 2022-07-11 21:13:45.228 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-07-11 21:13:45.705 ServerApp] Notebook san_francisco_housing.ipynb is not trusted
+[W 2022-07-11 21:13:46.011 ServerApp] Notebook Test2.ipynb is not trusted
+[W 2022-07-11 21:13:46.179 ServerApp] Notebook Picture_perfect.ipynb is not trusted
+[W 2022-07-11 21:13:46.344 ServerApp] Notebook medical_claims.ipynb is not trusted
+[W 2022-07-11 21:13:46.502 ServerApp] Notebook storytelling.ipynb is not trusted
+[I 2022-07-11 21:15:06.327 ServerApp] Kernel interrupted: 2a0d3705-a7b6-4e3d-9a55-459df7fde9a8
+[I 2022-07-11 21:15:10.218 ServerApp] Saving file at /storytelling.ipynb
+[W 2022-07-11 21:15:10.218 ServerApp] Notebook storytelling.ipynb is not trusted
+[I 2022-07-11 21:15:13.844 ServerApp] Kernel shutdown: a2439ecf-5b54-45c0-8c0d-b807cf1d5685
+[I 2022-07-11 21:15:13.850 ServerApp] Kernel shutdown: 54bafba8-2cdd-4dde-9551-661a32c5eba3
+[I 2022-07-11 21:15:13.860 ServerApp] Kernel shutdown: c82296fd-d6ca-4c64-bbc9-d83f97f1ab63
+[I 2022-07-11 21:15:13.862 ServerApp] Kernel shutdown: 96362226-2609-4adb-918f-99e355e09757
+[I 2022-07-11 21:15:13.869 ServerApp] Kernel shutdown: 2a0d3705-a7b6-4e3d-9a55-459df7fde9a8
+[I 2022-07-11 21:15:14.082 ServerApp] EOF on FD 22; stopping reading
+[I 2022-07-11 21:15:14.188 ServerApp] Terminal 1 closed
+Websocket closed
+[I 2022-07-11 21:15:14.611 ServerApp] Shutting down on /api/shutdown request.
+[I 2022-07-11 21:15:14.612 ServerApp] Shutting down 0 kernels
+/panel-preview/ /panel-preview
+NumExpr defaulting to 8 threads.
+[I 2022-07-11 21:15:20.426 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-07-11 21:15:20.665 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-07-11 21:15:20.666 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
+[I 2022-07-11 21:15:20.712 LabApp] JupyterLab extension loaded from /Users/michaelcruz/opt/anaconda3/envs/dev/lib/python3.8/site-packages/jupyterlab
+[I 2022-07-11 21:15:20.712 LabApp] JupyterLab application directory is /Users/michaelcruz/opt/anaconda3/envs/dev/share/jupyter/lab
+[I 2022-07-11 21:15:20.715 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-07-11 21:15:20.719 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-07-11 21:15:20.720 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
+[I 2022-07-11 21:15:20.720 ServerApp] Serving notebooks from local directory: /Users/michaelcruz/git/FinTech-Mod6-Challenge
+[I 2022-07-11 21:15:20.720 ServerApp] Jupyter Server 1.4.1 is running at:
+[I 2022-07-11 21:15:20.720 ServerApp] http://localhost:8888/lab
+[I 2022-07-11 21:15:20.720 ServerApp]  or http://127.0.0.1:8888/lab
+[I 2022-07-11 21:15:20.720 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2022-07-11 21:15:25.135 LabApp] Could not determine jupyterlab build status without nodejs
+TermSocket.open: 1
+[I 2022-07-11 21:15:25.143 ServerApp] New terminal with specified name: 1
+TermSocket.open: Opened 1
+[W 2022-07-11 21:15:25.619 ServerApp] Notebook san_francisco_housing.ipynb is not trusted
+[W 2022-07-11 21:15:25.920 ServerApp] Notebook Test2.ipynb is not trusted
+[W 2022-07-11 21:15:26.084 ServerApp] Notebook Picture_perfect.ipynb is not trusted
+[W 2022-07-11 21:15:26.247 ServerApp] Notebook medical_claims.ipynb is not trusted
+[W 2022-07-11 21:15:26.408 ServerApp] Notebook storytelling.ipynb is not trusted
+[W 2022-07-11 21:15:27.160 ServerApp] 404 GET /Images/zoomed-housing-units-by-year.png (::1) 20.50ms referer=http://localhost:8888/lab
+[W 2022-07-11 21:15:27.163 ServerApp] 404 GET /Images/avg-sale-px-sq-foot-gross-rent.png (::1) 2.65ms referer=http://localhost:8888/lab
+[W 2022-07-11 21:15:27.164 ServerApp] 404 GET /Images/pricing-info-by-neighborhood.png (::1) 2.52ms referer=http://localhost:8888/lab
+[W 2022-07-11 21:15:27.164 ServerApp] 404 GET /Images/6-4-geoviews-plot.png (::1) 2.52ms referer=http://localhost:8888/lab
+[I 2022-07-11 21:15:27.337 ServerApp] Kernel started: 9fc53849-1528-4bf6-ab21-4a6860ce2ae6
+[I 2022-07-11 21:15:27.340 ServerApp] Kernel started: 1c4eb8d8-7d87-43e3-8046-7a8c3832a522
+[I 2022-07-11 21:15:27.342 ServerApp] Kernel started: 8b79da40-a743-43a7-8960-56d0e3269bf2
+[I 2022-07-11 21:15:27.360 ServerApp] Kernel started: ba96ed0d-6551-4ffa-837f-238608383b02
+[I 2022-07-11 21:15:27.386 ServerApp] Kernel started: 98214ec4-ee5c-43a5-aa84-1cad8e65347c
+[I 2022-07-11 21:15:28.191 ServerApp] Starting buffering for ba96ed0d-6551-4ffa-837f-238608383b02:55e36f0a-59be-4f42-80ce-5c91694771bf
+[I 2022-07-11 21:17:27.046 ServerApp] Saving file at /storytelling.ipynb
+[I 2022-07-11 21:19:27.373 ServerApp] Saving file at /storytelling.ipynb
+[I 2022-07-11 21:21:27.968 ServerApp] Saving file at /storytelling.ipynb
+[I 2022-07-11 21:29:31.656 ServerApp] Saving file at /storytelling.ipynb
+[I 2022-07-11 21:33:31.966 ServerApp] Saving file at /storytelling.ipynb
+[I 2022-07-11 21:33:44.119 ServerApp] Starting buffering for 8b79da40-a743-43a7-8960-56d0e3269bf2:9bf95999-8c46-44fd-824d-7aee48513e07
+[I 2022-07-11 21:33:46.622 ServerApp] Starting buffering for ba96ed0d-6551-4ffa-837f-238608383b02:e6a45c40-9f8a-411c-b3a4-702616db742f
+[I 2022-07-11 21:33:48.840 ServerApp] Starting buffering for 9fc53849-1528-4bf6-ab21-4a6860ce2ae6:d595ef18-a0df-4acd-899a-41895dcb9086
+[I 2022-07-11 21:33:49.288 ServerApp] Starting buffering for 1c4eb8d8-7d87-43e3-8046-7a8c3832a522:b84fa6f1-2cf5-4c93-bd3f-8cb0269fb1dd
+[I 2022-07-11 22:04:26.735 ServerApp] Starting buffering for 98214ec4-ee5c-43a5-aa84-1cad8e65347c:f8c2b079-7ca3-4294-9c99-faf5d345fd2b
+Websocket closed
+TermSocket.open: 1
+TermSocket.open: Opened 1
+Websocket closed
+[I 2022-07-11 22:55:00.645 ServerApp] Starting buffering for 98214ec4-ee5c-43a5-aa84-1cad8e65347c:67b3b4d6-f99f-481f-a9c2-bb5b3a028e20
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 2022-07-11 23:13:13.037 ServerApp] Starting buffering for 98214ec4-ee5c-43a5-aa84-1cad8e65347c:f8c2b079-7ca3-4294-9c99-faf5d345fd2b
+Websocket closed
+TermSocket.open: 1
+TermSocket.open: Opened 1
+Websocket closed
+[I 2022-07-11 23:13:44.391 ServerApp] Starting buffering for 98214ec4-ee5c-43a5-aa84-1cad8e65347c:f8c2b079-7ca3-4294-9c99-faf5d345fd2b
+[C 2022-07-16 12:09:33.990 ServerApp] received signal 15, stopping
+[I 2022-07-16 12:09:34.010 ServerApp] Shutting down 5 kernels
+[I 2022-07-16 12:09:34.026 ServerApp] Kernel shutdown: 9fc53849-1528-4bf6-ab21-4a6860ce2ae6
+[I 2022-07-16 12:09:34.038 ServerApp] Kernel shutdown: 1c4eb8d8-7d87-43e3-8046-7a8c3832a522
+[I 2022-07-16 12:09:34.043 ServerApp] Kernel shutdown: 8b79da40-a743-43a7-8960-56d0e3269bf2
+[I 2022-07-16 12:09:34.048 ServerApp] Kernel shutdown: ba96ed0d-6551-4ffa-837f-238608383b02
+[I 2022-07-16 12:09:34.055 ServerApp] Kernel shutdown: 98214ec4-ee5c-43a5-aa84-1cad8e65347c
+/panel-preview/ /panel-preview
